@@ -17,6 +17,12 @@
             "name":"chiwi",
             "identificacion":123456,
             "password":654321
+        },
+        {
+            "id":4,
+            "name":"wi",
+            "identificacion":123457,
+            "password":754321
         }
     ]
 }
