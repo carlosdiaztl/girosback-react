@@ -3,25 +3,25 @@
         {
             "id":1,
             "name":"carlos",
-            "identificacion":1234,
+            "user":1234,
             "password":4321
         },
         {
             "id":2,
             "name":"lorena",
-            "identificacion":12345,
+            "user":12345,
             "password":54321
         },
         {
             "id":3,
             "name":"chiwi",
-            "identificacion":123456,
+            "user":123456,
             "password":654321
         },
         {
             "id":4,
             "name":"wi",
-            "identificacion":123457,
+            "user":123457,
             "password":754321
         }
     ]
