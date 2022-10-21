@@ -23,6 +23,28 @@
             "name":"wi",
             "user":123457,
             "password":754321
+        },
+        {
+            "id":5,
+            "name":"mailer",
+            "user":"mailer",
+            "password":12345
         }
-    ]
+    ],
+    "transfers": [
+        {
+          "id": 1,
+          "senderId": 1,
+          "receiptId": 5,
+          "value": 5000000,
+          "date": "2022-10-20"
+        },
+        {
+          "id": 1,
+          "senderId": 3,
+          "receiptId": 1,
+          "value": 100000,
+          "date": "2022-10-19"
+        }
+      ]
 }
