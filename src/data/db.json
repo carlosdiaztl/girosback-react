@@ -46,5 +46,41 @@
           "value": 100000,
           "date": "2022-10-19"
         }
-      ]
+      ], "usuarios":[
+        {
+            "id":1,
+            "name":"carlos",
+            "user":1234,
+            "password":4321,
+            "email":"diaz-alzate@gmail.com"
+        },
+        {
+            "id":2,
+            "name":"lorena",
+            "user":12345,
+            "password":54321,
+            "email":"lorena@gmail.com"
+        },
+        {
+            "id":3,
+            "name":"chiwi",
+            "user":123456,
+            "password":654321,
+            "email":"chiwi@gmail.com"
+        },
+        {
+            "id":4,
+            "name":"wi",
+            "user":123457,
+            "password":754321,
+            "email":"wi@gmail.com"
+        },
+        {
+            "id":5,
+            "name":"mailer",
+            "user":"mailer",
+            "password":12345,
+            "email":"mailler@gmail.com"
+        }
+    ]
 }
